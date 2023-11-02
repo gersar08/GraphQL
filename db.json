@@ -1,0 +1,28 @@
+ {
+    "persons":[
+{
+    "age": 22,
+    "name": "Marcos",
+    "phone": "034-1246597",
+    "street": "Eerste straat",
+    "city": "Amsterdam",
+    "id": "021321880dsad5484"
+  },
+  {
+    "age": 35,
+    "name": "Youseff",
+    "phone": "034-1245454",
+    "street": "Park Avenue",
+    "city": "Mataro",
+    "id": "0213sdada841846sda"
+  },
+  {
+    "age": 15,
+    "name": "Trixie",
+    "phone": null,
+    "street": "Obelisco",
+    "city": "Buenos Aires",
+    "id": null
+  }
+]
+}
